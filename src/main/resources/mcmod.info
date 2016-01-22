@@ -3,7 +3,7 @@
   "modid": "BucketTools",
   "name": "Bucket Tools",
   "description": "A mod by Vorquel",
-  "version": "${modVersion}",
+  "version": "${version}",
   "mcversion": "${mcVersion}",
   "url": "",
   "updateUrl": "",
